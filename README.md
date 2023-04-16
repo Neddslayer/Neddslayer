@@ -4,6 +4,9 @@
 + C++
 + C#
 + Javascript
-- My mental health
 + Minecraft Modding
++ Blockbench Modelling
++ Animation (3D and 2D symbol)
+- Drawing
+- My mental health
 ```
